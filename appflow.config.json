@@ -3,7 +3,7 @@
   [
       {
           "appId": "f92b34df",
-          "webBuildCommand": "yarn quasar build"
+          "webBuildCommand": "yarn build-applfow"
       }
 
   ]
