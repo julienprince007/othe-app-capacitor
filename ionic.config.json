@@ -1,7 +1,9 @@
 {
   "name": "appflow",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "webDir": "www"
+    }
   },
   "type": "custom"
 }
